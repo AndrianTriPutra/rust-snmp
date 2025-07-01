@@ -1,0 +1,9 @@
+[package]
+name = "snmp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+snmp = "0.2"
+
+
